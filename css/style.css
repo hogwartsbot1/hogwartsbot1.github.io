@@ -74,7 +74,7 @@ a, a:hover { text-decoration: none; }
 #header {
 	text-align: center;
 	height: 1000px;
-	background: url(../img/home-bg.jpg) no-repeat center center fixed/cover;
+	background: url(img/home-bg.jpg) no-repeat center center fixed/cover;
 
 	-o-background-size: 100%;
 	-moz-background-size: 100%;
